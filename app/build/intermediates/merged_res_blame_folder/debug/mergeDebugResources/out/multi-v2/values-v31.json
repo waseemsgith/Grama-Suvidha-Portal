@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.gramssuvidha.portal.app-mergeDebugResources-65:/values-v31/values-v31.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\wasee\\AppData\\Local\\Temp\\cursor-sandbox-cache\\9d935fdfb0c45698c03e30efc16bd18f\\gradle\\caches\\8.13\\transforms\\9f8002555ba5cab0869b40705eb9a25a\\transformed\\core-splashscreen-1.0.1\\res\\values-v31\\values-v31.xml",
+                    "from": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,473",
+                        "endLines": "8,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "468,697"
+                    }
+                }
+            ]
+        }
+    ]
+}
